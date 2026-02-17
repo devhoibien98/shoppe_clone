@@ -1,0 +1,38 @@
+# CÁC CHỨC NĂNG BÊN TRONG
+
+    - AUTHENCATION: QUẢN LÝ BẰNG JWT
+        - ĐĂNG KÝ
+        - ĐĂNG NHẬP
+        - ĐĂNG XUẤT
+    - TRANG DANH SÁCH SẢN PHẨM
+        - PAGANATION
+        - SORT
+        - FILTER
+        - SEARCH
+    - TRANG CHI TIẾT SẢN PHẨM
+        - HIỂN THỊ THÔNG TIN CHI TIẾT
+        - ẢNH HIỆN THỊ THEO SLIDER + HOVER ZOOM EFFECT
+        - MÔ TẢ THÌ HIỂN THỊ THEO RICH TEXT THEO WYSIWYG HTML
+        - CÓ CHỨC NĂNG MUA HÀNG
+    - GIỎ HÀNG
+        - QUẢN LÝ ĐƠN HÀNG: THÊM, XÓA, SỬA SẢN PHẨM
+        - MUA HÀNG
+    - QUẢN LÝ PROFILE KHÁCH HÀNG
+        - UPDATING CÁ NHÂN
+        - UPLOAD AVATAR
+        - ĐỔI MẬT KHẨU
+        - XEM TÌNH TRẠNG ĐƠN HÀNG
+
+# CÔNG NGHÊ SỬ DỤNG
+
+    - TAILWINCSS
+    - STATE MANAGEMENT: REACT QUERY CHO ASYNC STATE VÀ REACT CONTEXT CHO STATE THƯỜNG
+    - FORM MANAGEMENT: REACT HOOK
+    - ROUTER: REACT ROUTER
+    - BUILD TOOL: VITE
+    - API: REST API DỰA TRÊN SERVER CUNG CẤP SẴN
+    - HỖ TRỢ ĐA NGÔN NGỮ VỚI REACT.I18NEXT
+    - HỖ TRỢ SEO VỚI REACT HELMET
+    - MÔ HÌNH HÓA CÁC COMPONENT VỚI STORY BOOK
+    - UNIT TEST
+    - ...
